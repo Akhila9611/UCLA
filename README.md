@@ -10,8 +10,8 @@ This project involves building a machine learning pipeline for a dataset associa
 - Visualize the results and provide real-time predictions using a web app.
 
 ### **Machine Learning Task**:
-- **Task Type**: (Classification or Regression) *(You can specify this based on your use case)*  
-- **Target Variable**: `Target_Column_Name` *(Replace with actual target)*  
+- **Task Type**: (Classification or Regression) 
+- **Target Variable**:   
 - **Success Criteria**: High accuracy or low error depending on task type.
 
 ---

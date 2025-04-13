@@ -1,5 +1,7 @@
 # UCLA Neural Networks Solution
 
+Link to app: "https://uclaapp.streamlit.app/"
+
 ## Project Overview
 
 This project focuses on solving a machine learning problem using **neural networks**. The goal is to preprocess data, train models, and visualize results effectively. The project involves creating a neural network-based model for predicting the admission chance of applicants based on various features. The model is designed to evaluate performance metrics, with a focus on achieving high accuracy.
